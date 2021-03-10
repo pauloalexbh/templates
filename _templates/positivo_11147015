@@ -13,3 +13,5 @@ type: RGBCCT
 standard: e27
 unsupported: true
 ---
+## Warning
+New version of this device come with an incompatible WB2L module.
